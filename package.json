@@ -65,7 +65,7 @@
     "gulp-watch": "^4.3.11",
     "lazypipe": "^1.0.1",
     "ncp": "^2.0.0",
-    "postcss-bem": "^0.4.1",
+    "postcss-bem": "git+ssh://git@github.com:kezzbracey/postcss-bem.git#master",
     "postcss-cssnext": "^2.10.0",
     "postcss-extend": "^1.0.5",
     "postcss-import": "^9.1.0",
